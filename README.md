@@ -29,11 +29,11 @@ pip install pandas numpy scikit-learn matplotlib tensorflow
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+  gh repo clone patelandpatel/Flower-prediction
    ```
 2. Navigate to the repository directory:
    ```sh
-   cd <repository-directory>
+   cd Flower-prediction
    ```
 3. Open the Jupyter notebook:
    ```sh

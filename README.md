@@ -1,4 +1,3 @@
-# Flower-prediction
 # Flower Prediction Project
 
 This repository contains code and resources for predicting flower species using machine learning techniques. The project is implemented in a Jupyter notebook and aims to classify different types of flowers based on their features.
